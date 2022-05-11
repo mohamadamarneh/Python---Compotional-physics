@@ -1,4 +1,4 @@
-Python-Compotional-Physics
+thermodynamic project
 
 Maxwell construction where p(n)
 p:pressure n:density
