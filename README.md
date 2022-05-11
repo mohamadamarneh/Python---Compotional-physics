@@ -5,5 +5,3 @@ p:pressure n:density
 
 For more details: see the PDF
 about Projects_Thermodynamics.pdf
-
-
